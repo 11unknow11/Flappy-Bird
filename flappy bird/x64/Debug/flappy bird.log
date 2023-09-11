@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Code\flappy bird\flappy bird\源.cpp(37,9): warning C4305: “初始化”: 从“double”到“float”截断
+  flappy bird.vcxproj -> D:\Code\flappy bird\x64\Debug\flappy bird.exe
